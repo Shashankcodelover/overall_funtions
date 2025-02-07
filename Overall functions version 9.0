@@ -4,7 +4,7 @@ from colorama import Fore, Style, init
 from calendar import *
 
 class Overall:
-    name = " "
+    name = " " 
 
     def calculator(self):
         print("You chose the calculator.")
